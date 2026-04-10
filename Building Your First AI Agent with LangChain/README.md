@@ -1,0 +1,3 @@
+- Module 1 Getting Started with Agentic AI and the LangChain Ecosystem
+- Module 2 Applied LLM Development: Prompting, Context Engineering and LCEL
+- Module 3 Practical Agent Development with LangChain
